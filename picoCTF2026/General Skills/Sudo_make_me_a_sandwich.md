@@ -1,6 +1,6 @@
 # [SUDO MAKE ME A SANDWICH]
 **Category:** General Skills
-**Points:** 10
+**Points:** 50
 
 ### 1. Challenge Description
 The challenge tasks you with reading the flag.txt file on a linux machine.
