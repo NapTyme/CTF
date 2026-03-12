@@ -1,6 +1,6 @@
-# [Challenge Name]
-**Category:** (e.g., General Skills)
-**Points:** 50
+# [SUDO MAKE ME A SANDWICH]
+**Category:** General Skills
+**Points:** 10
 
 ### 1. Challenge Description
 *Briefly describe what the challenge asks you to do.*
