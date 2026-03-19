@@ -1,7 +1,7 @@
 # Piece by Piece
 
 **Category:** General Skills  
-**Points:** TBD
+**Points:** 50
 
 ### 1. Challenge Description
 
@@ -16,11 +16,8 @@ Multiple split file parts are present in the home directory. They need to be com
 ### 3. Commands Used
 
 ```
-file part_aa
-file part_ab
-file part_ac
-file part_ad
-cat part_aa part_ab part_ac part_ad > combined.zip
+file part_aa part_ab part_ac part_ad part_ae
+cat part_aa part_ab part_ac part_ad part_ae > combined.zip
 unzip -P supersecret combined.zip
 cat <extracted_file>.txt
 ```
